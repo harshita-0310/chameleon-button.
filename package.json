@@ -1,0 +1,28 @@
+{
+  "name": "chameleon-button.",
+  "version": "1.0.0",
+  "description": "Chameleon Button Component",
+  "scripts": {
+    "build": "react-scripts build", // Or "vue-cli-service build" for Vue
+    "start": "react-scripts start"  // Or "vue-cli-service serve" for Vue
+  },
+  "dependencies": {
+    "react": "^18.2.0", // Or your React version
+    "react-dom": "^18.2.0" // Or your React DOM version
+  },
+  "devDependencies": {
+    "react-scripts": "5.0.1" // Or your React Scripts version
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
