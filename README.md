@@ -42,13 +42,3 @@ The source code for this project is available on GitHub: https://github.com/hars
     <ChameleonButton />
     ```
 
-## Alignment with Evaluation Criteria
-
-This project has been developed with the following evaluation criteria in mind:
-
-* **Context detection accuracy (40%):** The component accurately identifies the specified contexts through the implemented detection methods.
-* **Visual transformations (30%):** Clear and distinct visual transformations are applied to the button to reflect its current context.
-* **Code readability (20%):** The codebase is well-structured with detailed comments explaining the logic and implementation details.
-* **Creative edge cases (10%):** [*(In this section, describe any creative edge cases you've considered and handled, e.g., prioritization of contexts, handling multiple trash icons, nested cards, etc. If you haven't explicitly handled any beyond the basic requirements, you can state that the focus was on the core functionality but acknowledge potential future enhancements for edge cases.)*] For instance, the component prioritizes the "Delete" action if the button is both near a trash icon and at the bottom of a card.
-
-Thank you for reviewing this project!
